@@ -1,0 +1,10 @@
+body{
+    background-color: #ff0000;
+}
+
+p{
+        font-family: tahoma; /*define una fuente*/
+        font-size: 24px; /*define el tamaño en 24x*/
+        font-style: bold; /*defie el texto en negrita*/
+        text-align: center; /*define la alineacion de texto */
+}
